@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Contacts</h1>
+        <h3>Contacts : inifinite-scroll branch</h3>
         <ContactList />
       </div>
     );
@@ -13,3 +13,5 @@ class App extends Component {
 }
 
 export default App;
+
+// master branch
